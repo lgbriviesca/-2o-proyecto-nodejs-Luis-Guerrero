@@ -13,7 +13,6 @@ const {
   checkValidations,
 } = require('../middlewares/validationsMiddlewares');
 
-// Controller
 const {
   /* getAllUsers, */
   createUser,
